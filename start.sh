@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Download the ngrok script
-wget -O ng.sh https://github.com/uH2O/FFLOW/raw/main/ng.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/kmille36/Docker-Ubuntu-Desktop-NoMachine/raw/main/ngrok.sh > /dev/null 2>&1
 
 # Make the ngrok script executable
 chmod +x ng.sh
